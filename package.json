@@ -1,9 +1,7 @@
 {
   "name": "solidity-essentials",
   "dependencies": {
-    "ganache-cli": "^6.9.1",
-    "solc": "^0.4.18",
-    "web3": "^0.19.1"
+    "solc": "^0.4.21"
   },
   "devDependencies": {
     "ethlint": "^1.2.5"
